@@ -1,3 +1,0 @@
-field: To jest testowe pole
-fieldWithExtraInfo: To jest testowe pole  z dodatkowym opisem ze stałej
-TestClass: To jest testowa klasa
